@@ -1,0 +1,22 @@
+body { color: white;
+    background-color: black; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.5em;    
+     margin: 10px;
+   }
+
+    
+    .primero {
+        text-align: center;
+        font-size: 25px;
+    }
+    .tituli {
+        font-size: 20px;
+    }
+    .subtituli {
+        font-size: 17px;
+    }
+    .teoria {
+        font-size: 15px; 
+    }
+    
